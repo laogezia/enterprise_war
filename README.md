@@ -1,4 +1,4 @@
-对本系统感兴趣欢迎联络购买，最新完整版上门搭建。 联络邮箱QQ：`1034570286@qq.com` btw:`求一Java团队收留 `
+
 
 # enterprise 门户网站
 
@@ -75,25 +75,14 @@ jdbc.url=jdbc:mysql://localhost:3306/enterprise?useUnicode=true&characterEncodin
 
 * 使用tomcat启动
 
-* 前端地址：http://localhost:8080/enterprise
+* 前端地址：http://localhost:8080/enterprise_war
 
-* 后端地址：http://localhost:8080/enterprise/manage/user/login
+* 后端地址：http://localhost:8080/enterprise_war/manage/user/login
 
-## 在线演示
 
-* 请不要修改密码，不要修改或者添加破坏风格的内容,如果不能访问了请联系我
-
-* 前端地址：http://upint.cn/enterprise
-
-* 后端地址：http://upint.cn/enterprise/manage/user/login
 
 ## 捐赠
 
-接收捐款账号，支付宝（同微信） 13163396277
-
-2020-06-14 感谢来自帝都的Kalorr捐赠500元
-
-2020-06-30 感谢来自魔都的Dust捐赠88元
 
 # 系统预览
 
